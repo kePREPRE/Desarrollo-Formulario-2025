@@ -1,47 +1,57 @@
-# 📑 Desarrollo-Formulario-2025  
+📑 Development-Form-2025
 
-Aplicación web desarrollada con **PHP 8.1+** y **CodeIgniter 4**, enfocada en la **gestión y validación de formularios dinámicos**.  
-Este proyecto busca mostrar **buenas prácticas de desarrollo** con un framework moderno y seguro, integrando funcionalidades esenciales que pueden servir como base para proyectos académicos, profesionales o empresariales.  
+Web application developed with PHP 8.1+ and CodeIgniter 4, focused on the management and validation of dynamic forms.
+This project aims to demonstrate best development practices with a modern and secure framework, integrating essential features that can serve as a foundation for academic, professional, or business projects.
 
----
+🌟 Project Objective
 
-## 🌟 Objetivo del proyecto
-El objetivo es implementar un sistema de formularios capaz de:  
-- Capturar datos de forma **estructurada** y **segura**.  
-- Validar la información antes de almacenarla.  
-- Mantener la integridad de los datos en la base de datos.  
-- Servir como plantilla para futuros proyectos de gestión de datos.  
+The goal is to implement a form system capable of:
 
-Este sistema también funciona como un **ejemplo educativo** para estudiantes o desarrolladores que quieran aprender a usar **CodeIgniter 4** en proyectos reales.  
+Capturing data in a structured and secure way.
 
----
+Validating information before storing it.
 
-## 🚀 Tecnologías principales
-- **Backend:** PHP 8.1+, CodeIgniter 4  
-- **Frontend:** Bootstrap 5, HTML5, CSS3, JavaScript  
-- **Base de datos:** MySQL/MariaDB  
-- **Servidor de pruebas:** Laragon (Windows) / XAMPP (multiplataforma)  
-- **Gestor de dependencias:** Composer  
-- **Control de versiones:** Git y GitHub  
+Maintaining data integrity in the database.
 
----
+Serving as a template for future data management projects.
 
-## ⚙️ Requisitos del sistema
-- PHP **8.1 o superior**  
-- Extensiones habilitadas:  
-  - `intl`  
-  - `mbstring`  
-  - `json` (habilitado por defecto)  
-  - `mysqlnd` (para conexión con MySQL)  
-  - `libcurl` (para solicitudes HTTP)  
-- MySQL 5.7+ o MariaDB  
-- Composer instalado en el sistema  
+This system also works as an educational example for students or developers who want to learn how to use CodeIgniter 4 in real-world projects.
 
----
+🚀 Main Technologies
 
-## 🔧 Instalación y configuración
+Backend: PHP 8.1+, CodeIgniter 4
 
-### 1️⃣ Clonar el repositorio
-```bash
-git clone https://github.com/kePREPRE/Desarrollo-Formulario-2025.git
-cd Desarrollo-Formulario-2025
+Frontend: Bootstrap 5, HTML5, CSS3, JavaScript
+
+Database: MySQL/MariaDB
+
+Test Server: Laragon (Windows) / XAMPP (cross-platform)
+
+Dependency Manager: Composer
+
+Version Control: Git and GitHub
+
+⚙️ System Requirements
+
+PHP 8.1 or higher
+
+Enabled extensions:
+
+intl
+
+mbstring
+
+json (enabled by default)
+
+mysqlnd (for MySQL connection)
+
+libcurl (for HTTP requests)
+
+MySQL 5.7+ or MariaDB
+
+Composer installed on the system
+
+🔧 Installation and Setup
+1️⃣ Clone the repository
+git clone https://github.com/kePREPRE/Development-Form-2025.git
+cd Development-Form-2025
